@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id = "someText"> </p>
+    <script>
+
+        // json is valid javascript, we can add content from json file directly here
+        // treat content of a json file as array
+        let students= [ // use [] here
+            {
+                "name": "Qazi",
+                "age": 25,
+                "height": 170 
+
+            },
+            {
+                "name": "Rafeh",
+                "age": 28,
+                "height": 180 
+            }
+        ]
+        console.log(students); // you will see it in inspect, and there will be 2 arrays
+    </script>
+
+    
+     <script>
+        // json is valid javascript, we can add content from json file directly here
+        // treat content of a json file as string
+        let students= `[ 
+            {
+                "name": "Qazi",
+                "age": 25,
+                "height": 170 
+
+            },
+            {
+                "name": "Rafeh",
+                "age": 28,
+                "height": 180 
+            }
+        ]`
+        console.log(students); // you will see it in inspect, and you will see it as string
+        console.log(JSON.parse(students)); // change string content back to array, like what we have on the top
+        
+        // get the first element of the array
+        console.log(JSON.parse(students[0])); // getting information for first student
+        console.log(JSON.parse(students[0].age));  // getting age of the first student
+    </script>
+</body>
+</html>

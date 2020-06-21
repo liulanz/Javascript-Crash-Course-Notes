@@ -1,0 +1,17 @@
+/* json file is used to represent data
+    it stands for js objec notation, 
+    generally it's used for API to carry light weight information, API configuration
+*/
+{
+    {
+        "name": "Qazi",
+        "age": 25,
+        "height": 170 
+
+    },
+    {
+        "name": "Rafeh",
+        "age": 28,
+        "height": 180 
+    }
+}
