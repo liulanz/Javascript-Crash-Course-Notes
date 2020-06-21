@@ -9,8 +9,8 @@ Notes and Codes based on [JavaScript Crash Course](https://youtu.be/Qqx_wzMmFeA)
 ### :bookmark: [**json**](./json.md):basic functionality of json file
 
 ### :bookmark: [**js-project-1-age-in-days**](./js-project-1-age-in-days/): 
-- [Age in days](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-project-1-age-in-days/)
+- Mini project using JavaScript: [Age in days](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-project-1-age-in-days/)
 
 ### :bookmark: [**js-project-2-cat-generator**](./js-project-2-cat-generator/): 
-- [Cat Generator](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-project-2-cat-generator/)
+- Mini project using JavaScript: [Cat Generator](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-project-2-cat-generator/)
 
