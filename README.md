@@ -1,2 +1,4 @@
 # Javascript-Crash-Course-Notes
-Notes based on https://youtu.be/Qqx_wzMmFeA
+
+Notes and Codes based on [JavaScript Crash Course](https://youtu.be/Qqx_wzMmFeA)  on YouTube
+
