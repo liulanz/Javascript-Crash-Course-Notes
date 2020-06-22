@@ -14,3 +14,6 @@ Notes and Codes based on [JavaScript Crash Course](https://youtu.be/Qqx_wzMmFeA)
 ### :bookmark: [**js-project-2-cat-generator**](./js-project-2-cat-generator/): 
 - Mini project using JavaScript: [Cat Generator](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-project-2-cat-generator/)
 
+### :bookmark: [**js-game-rock-paper-scissors**](./js-game-rock-paper-scissors/): 
+- Rock, Paper, Scissors Game using JavaScript: [Rock, Paper, Scissors](https://liulanz.github.io/Javascript-Crash-Course-Notes/js-game-rock-paper-scissors/)
+

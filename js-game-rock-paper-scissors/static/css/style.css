@@ -1,0 +1,20 @@
+.container-3{
+    width:80%;
+    text-align: center;
+    margin: 0 auto; /*center the container*/
+    border: 1px solid red;
+    box-shadow:0px 10px 50px skyblue;
+}
+.flext-box-rps{
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row; 
+    justify-content: space-around; 
+   
+}
+.flext-box-rps img:hover{
+    box-shadow: 0px 10px 50px red; 
+}
+
+
+
